@@ -1,0 +1,21 @@
+c:\users\nicegood\documents\visual studio 2015\Projects\Library Management System\Library Management System\bin\Debug\Library Management System.exe.config
+c:\users\nicegood\documents\visual studio 2015\Projects\Library Management System\Library Management System\obj\Debug\Library Management System.vbprojResolveAssemblyReference.cache
+c:\users\nicegood\documents\visual studio 2015\Projects\Library Management System\Library Management System\obj\Debug\Library_Management_System.Resources.resources
+c:\users\nicegood\documents\visual studio 2015\Projects\Library Management System\Library Management System\obj\Debug\Library Management System.vbproj.GenerateResource.Cache
+c:\users\nicegood\documents\visual studio 2015\Projects\Library Management System\Library Management System\obj\Debug\Library Management System.xml
+c:\users\nicegood\documents\visual studio 2015\Projects\Library Management System\Library Management System\bin\Debug\Library Management System.exe
+c:\users\nicegood\documents\visual studio 2015\Projects\Library Management System\Library Management System\bin\Debug\Library Management System.pdb
+c:\users\nicegood\documents\visual studio 2015\Projects\Library Management System\Library Management System\bin\Debug\Library Management System.xml
+c:\users\nicegood\documents\visual studio 2015\Projects\Library Management System\Library Management System\obj\Debug\Library Management System.exe
+c:\users\nicegood\documents\visual studio 2015\Projects\Library Management System\Library Management System\obj\Debug\Library Management System.pdb
+c:\users\nicegood\documents\visual studio 2015\Projects\Library Management System\Library Management System\obj\Debug\Library_Management_System.formLogin.resources
+C:\Users\NICEGOOD\Documents\Visual Studio 2015\Projects\Library Management System\Library Management System\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\NICEGOOD\Documents\Visual Studio 2015\Projects\Library Management System\Library Management System\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\NICEGOOD\Documents\Visual Studio 2015\Projects\Library Management System\Library Management System\obj\Debug\Library_Management_System.formMain.resources
+C:\Users\NICEGOOD\Documents\Visual Studio 2015\Projects\Library Management System\Library Management System\bin\Debug\MySql.Data.dll
+C:\Users\NICEGOOD\Documents\Visual Studio 2015\Projects\Library Management System\Library Management System\bin\Debug\MySql.Data.xml
+C:\Users\NICEGOOD\Documents\Visual Studio 2015\Projects\Library Management System\Library Management System\obj\Debug\Library_Management_System.dialogStudent.resources
+C:\Users\NICEGOOD\Documents\Visual Studio 2015\Projects\Library Management System\Library Management System\obj\Debug\Library_Management_System.dialogBook.resources
+C:\Users\NICEGOOD\Documents\Visual Studio 2015\Projects\Library Management System\Library Management System\obj\Debug\Library_Management_System.printBorrowedBookReceipt.resources
+C:\Users\NICEGOOD\Documents\Visual Studio 2015\Projects\Library Management System\Library Management System\obj\Debug\Library_Management_System.dialogLibrarian.resources
+C:\Users\NICEGOOD\Documents\Visual Studio 2015\Projects\Library Management System\Library Management System\obj\Debug\Library_Management_System.sasas.resources
